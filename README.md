@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-<!## Hi 👋 I'm Ramya
+<!## Hi  I'm Ramya
 
 🎓 B.Tech CSE Student  
 💻 Learning C, Python & Web Development  
@@ -10,10 +10,12 @@
 ### 🔧 Skills
 - C
 - Python
-- HTML, CSS
+- HTML, CSS,javascript,MYSQL
 
 ### 📌 Projects
-- Number Guessing Game (Python)
-- Portfolio Website (HTML)
+- PORTFOLIO WEBSITE
+- STUDENT ACCOMODATION WEBSITE
+- ATM SYSTEM(PYTHON)
+  
 
-✨ More projects coming soon!
+ More projects coming soon!
